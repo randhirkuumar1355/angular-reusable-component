@@ -7,3 +7,4 @@ In Angular, @Input() and @Output() decorators are used for sharing data between 
 
 Using these decorators, components can share data and communicate with each other, enabling more complex and interactive applications.
 
+![Screenshot 2024-02-20 182632](https://github.com/randhirk413/data-sharing-between-angular-components/assets/114358610/6bc7dfbf-b0c9-49aa-86aa-81aee99ab50d)
